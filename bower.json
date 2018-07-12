@@ -1,6 +1,6 @@
 {
   "name": "ck-stackdriver-errors-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "stackdriver-errors-concat.js",
   "keywords": ["javascript", "client", "browser", "errors", "stackdriver"]
 }
